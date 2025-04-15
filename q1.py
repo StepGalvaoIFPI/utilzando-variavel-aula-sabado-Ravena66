@@ -1,1 +1,3 @@
+nome = "ravena"
+print(nome)
 
